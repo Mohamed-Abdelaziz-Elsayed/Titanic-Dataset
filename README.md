@@ -85,22 +85,7 @@ The model achieved a reasonable accuracy in predicting survival. Key insights in
 * NumPy
 * Matplotlib / Seaborn
 * Scikit-learn
-
----
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/your-username/titanic-project.git
-cd titanic-project
-```
-
-Then open:
-
-```bash
-Titanic_Logistic_Regression.ipynb
-```
-
+  
 ---
 
 ## 📎 Notes
